@@ -51,4 +51,25 @@
 
 ***Результат програми:***
 
+![](https://github.com/Terbering/meserakov_misha/blob/main/Task05/image/screen1.png)
+
+***Тестування:***
+
+![](https://github.com/Terbering/meserakov_misha/blob/main/Task05/image/screen2.png)
+
+## Завдання06:
+
+Продемонструвати можливість паралельної обробки елементів колекції (пошук мінімуму, максимуму, обчислення середнього значення, відбір за критерієм, статистична обробка тощо).Управління чергою завдань (команд) реалізувати за допомогою шаблону Worker Thread.
+
+***Результат програми:***
+
+![](https://github.com/Terbering/meserakov_misha/blob/main/Task06/image/screen1.png)
+
+***Тестування:***
+
+![](https://github.com/Terbering/meserakov_misha/blob/main/Task06/image/screen2.png)
+
+
+
+
 
