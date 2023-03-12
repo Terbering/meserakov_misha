@@ -15,3 +15,6 @@
 11.Підрахувати кількість повних зошит у двійковому поданні заданого десяткового числа.
 
 ***Результат програми:***
+
+![](https://github.com/Terbering/meserakov_misha/blob/master/Task01/image/screen1.png)
+
