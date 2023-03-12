@@ -16,5 +16,5 @@
 
 ***Результат програми:***
 
-![](https://github.com/Terbering/meserakov_misha/blob/master/Task01/image/screen1.png)
+![alt text](Task01/image/screen1.png)
 
